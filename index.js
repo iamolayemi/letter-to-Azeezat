@@ -27,17 +27,17 @@ const sentences = [
   {
     sentence: "Yes, I understand that this is your first relationship and you don't do these things before. " +
         "But like I said, expressing how you feel about my actions be it good or bad shouldn't be too shallow. " +
-        "Please, I'm begging you, quit saying you feel something inside and expressing close to zero to me and just expect me to assume the big feeling is inside.",
+        "Please, I'm begging you, quit saying you feel something inside and expressing close to zero to me, and just expect me to assume the big feeling is inside.",
     options: ["And an important reminder"],
     postfix: ","
   },
   {
-    sentence: "Remember that I love you so much and remember that I know yu love me too.",
+    sentence: "Remember that I love you so much and remember that I know you love me too.",
     options: ["And to the final part"],
     postfix: "!"
   },
   {
-    sentence: "I'm not angry anymore.",
+    sentence: "I'm not angry anymore, I LOVE YOU. Thanks.",
   },
 ];
 
