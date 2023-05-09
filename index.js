@@ -5,34 +5,39 @@ let sentenceID = 0
 
 const sentences = [
   {
-    sentence: "Dear love of my life, what should i call you?",
-    options: ["Azeezah mi ❤️", "Yetunde mi ❤️", "Ayoka mi ❤️"],
+    sentence: "Azeezat mi, what best describes Akinkunmi's attitudes towards you?",
+    options: ["Corrective", "Complaining", "Demanding"],
     postfix: "."
   },
   {
-    sentence: "Since the moment we first met, I have always been joyful. You came into my life not only with love but also with a lot of benefits and concern. You are a good woman who always sticks up for me, rescues me from my foolishness, and understands what to do.",
+    sentence: "You're not the only girl I've met, nor are you the only girl I have, but I chose you cuz I decided to, and you turned out to be the best for me." +
+        " And if I have decide to live the rest of my life with you, I shouldn't keep quite to something that really hurts." +
+        " This is majorly cuz I don't want you to repeat it.",
     options: ["And there's more"],
     postfix: ","
   },
   {
-    sentence: "I might never be able to express to your thoughts that you are the one I am constantly thinking about. But there is one thing I can absolutely do, and that is to treat you like the master in my heart, the queen of my palace, the one I think about constantly, the one I have been thinking about, as this realization makes clear. Dreams also provide me a lot of grounds to think that genuine love does exist. I promise to care for the blessings God has bestowed upon me through you and to love you for as long as I live.",
-    options: ["To my imperfections"],
+    sentence: "I don't correct you selfishly, you can also see what I'm complaining about. " +
+        "I don't own you so I can't tell you how to live your life but if you decide to be in a relationship with me, I guess we could help each other grow. " +
+        "Sometimes I feel I'm doing too much and I don't want to complain anymore but I know where that would end so I didn't stop pointing the mistakes. " +
+        "Please try not to make me complain on same thing especially things that could hurt me emotionally, Thanks .",
+    options: ["To Things I Noticed"],
     postfix: ","
   },
   {
-    sentence: "Yes, we have misunderstandings, sometimes things seem to fall apart, this is only due to human flaws and we will get better as we help each other grow, trust me the best is yet to come. I love you very much and I will always do. I must admit that my love for you deepens as a result of your decision to spend the rest of your life with me.",
+    sentence: "Yes, I understand that this is your first relationship and you don't do these things before. " +
+        "But like I said, expressing how you feel about my actions be it good or bad shouldn't be too shallow. " +
+        "Please, I'm begging you, quit saying you feel something inside and expressing close to zero to me and just expect me to assume the big feeling is inside.",
     options: ["And an important reminder"],
     postfix: ","
   },
   {
-    sentence: "This is just a reminder that love has no boundaries. Many mountains will move, many seas will dry, but my evergreen love for you will always bloom, because you are the only one I can trust my life without fear, The one who kept looking at my back in difficult times. Today, I want you to know that there is nothing to return, only my heart, sincerely saying to you: Our love will never end, even in the afterlife.",
+    sentence: "Remember that I love you so much and remember that I know yu love me too.",
     options: ["And to the final part"],
     postfix: "!"
   },
   {
-    sentence: "you are my Everything. Thank you for being my friend, my lover, my wife and the mother of my children. I love you so much.",
-    options: ["Oyah call me ❤️"],
-    postfix: "!"
+    sentence: "I'm not angry anymore.",
   },
 ];
 
